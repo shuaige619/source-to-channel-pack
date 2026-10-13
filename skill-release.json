@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "source-to-channel-pack",
+  "source_version": "5eccd3ff8591030d3693da818128c68062ace2fc1312be64a0efc3fba984e78e",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "9bff8d2fe55d6c70f440f4ed6508a00104a6b70ee1ff6042a29d5501fd219061",
+    "SKILL.md": "f485fa2e2a511c95896fafaae80f1396d88d6c9fca0f309afac250859beab8a2",
+    "scripts/check_content.py": "d693b188473e9cc557ced328a427d1b2cedfdd4f9ef1954b2b0363b75c0d3840"
+  }
+}
